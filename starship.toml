@@ -1,0 +1,9 @@
+add_newline = false
+
+[line_break]
+disabled = true
+
+# Directory setttings
+[directory]
+truncation_length = 4
+truncate_to_repo = false
